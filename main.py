@@ -14,4 +14,4 @@ print("abs:",abs(-5)) # модуль числа
 print("kvadrat",pow(5,3)) #піднесення до степення числа
 print("round", round(5 / 3)) #о
 input("chislo=>")
-print("pgfpgfdfdfdfd gfgfgfgfgfdffdfdfdfdfdf_____)
+print("pgfpgfdfdfdfd gfgfgfgfgfdffdfdfdfdfdf__111___")
