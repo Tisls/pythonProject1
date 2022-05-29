@@ -3,7 +3,7 @@ data = input()
 number = 5 if data == "Five" else 0
 
 #if data == "Five":
- #   number = 5
+ #   numbe = 5
 #else:
- #   number = 0
+ #   numbe = 0
 print(number)
